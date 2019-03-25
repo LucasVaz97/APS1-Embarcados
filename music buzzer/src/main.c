@@ -13,10 +13,14 @@
  *  - Kit: ATMEL SAME70-XPLD - ARM CORTEX M7
  */
 /* Features{
-	plays 2 musics (buttum 1 set furelise,buttum 2 set turkish marcj buttum 3 plays the music)
+	plays 2 musics (buttum 1 set furelise,buttum 2 set turkish march buttum 3 plays the music)
 	led bliks in music rythm
-	oloed screen displays the music name
+	oled screen displays the music name
 	youtube->https://www.youtube.com/watch?v=_okghWh9GEs
+}
+music Code references{
+	Fur Elise: http://repairmypc.net/2017/08/test-post/
+	Turkish March: https://github.com/msamet/Arduino-ile-Mozart-T-rk-Mar-/blob/master/kodlar
 }
 
 /************************************************************************/
